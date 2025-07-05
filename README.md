@@ -5,5 +5,6 @@
 - uv で必要なライブラリをインストールしています。
     - `uv add dash`
     - `uv add pandas`
+    - `uv add uv add dash-bootstrap-components`
 - リポジトリを別途取得後は `uv sync` で必要なライブラリが取得できます。
 - 実行時は `uv run <実行するファイル.py>` で起動できます。
